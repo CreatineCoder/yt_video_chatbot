@@ -1,2 +1,5 @@
 # yt_video_chatbot
-An AI model with you can chat  with about the video 
+<HEAD>
+An AI model with whom you can chat with about the any youtube video
+</HEAd>
+ 
